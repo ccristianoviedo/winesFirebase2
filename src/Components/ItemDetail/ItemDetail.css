@@ -1,0 +1,25 @@
+.item {
+    width: 80%;
+    height: 720px;
+    border: rgba(20, 16, 16, 0.432) solid;
+    margin-left: 10%;
+    background-color: rgba(255, 255, 255, 0.87);
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: row;
+    padding-top: 10px;
+    margin-top: 10px;
+}
+.imgUrl{
+    width: 300px;
+    height: 450px;
+    border-radius: 0%;
+}
+.imgItem {
+   margin: 40px 50px 0px 50px;
+}
+.itemText{
+    margin: 80px 50px 0px 50px;
+    text-align: left;
+    font-weight: bold;
+}

@@ -1,0 +1,30 @@
+.navBarUl{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+}
+.navBarIl{
+    margin-left: 140px; 
+    margin-top: 20px;     
+}
+.navBarCart{
+    margin-left: 90px;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 130%;
+    font-weight: bold;    
+}
+a:hover {
+    background-color: rgba(247, 247, 223, 0.664);
+  }
+.navbar {
+    width: 100%;
+    padding-left: 100px;
+    margin-top: 50px;
+    height: 90px;
+    background-color: rgba(36, 25, 12, 0.301);    
+    margin-bottom: 80px;
+}

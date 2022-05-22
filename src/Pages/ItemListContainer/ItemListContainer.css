@@ -1,0 +1,15 @@
+.itemsLanding {
+    width: 100%;
+    height: 1100px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+   margin-top: 50px;
+}
+h2{
+    margin-top: 40px;
+    margin-left: 200px;
+}
+h3{
+    margin-top: 40px;
+}

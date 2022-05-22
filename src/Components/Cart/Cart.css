@@ -1,0 +1,39 @@
+.cart{
+    display: flex;
+    flex-direction: row;
+}
+.cartElement{
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+.btnCancel{
+    width: 45%;
+    height: 600px;
+    padding-top: 100px;
+    font-size: 150%;
+    font-weight: bold;
+    overflow-y: visible;
+}
+.shop{
+   margin-top: 80px;
+   padding-top: 20px;
+   padding-left: 300px;
+   margin-left: 20%;
+   background-image: url(https://imageio.forbes.com/specials-images/imageserve/6276c7a49c222289a2752bc2/2018BlackLabelBeautyShot-2-wine-with-glasses-and-decanter/960x0.jpg?fit=bounds&format=jpg&width=960);
+   background-size: cover;
+   width: 60%;   
+   height: 500px;
+   font-size: 150%;
+}
+form {
+    display: flex;
+    flex-direction: column;
+}
+input {
+    width: 450px;
+    height: 50px;
+}
